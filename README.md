@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://faraidun.vercel.app"><img src="https://img.shields.io/badge/portfolio-faraidun.vercel.app-2d353b?style=flat-square&labelColor=1e2326&color=a7c080" alt="Portfolio" /></a>
   <a href="https://github.com/MrFaraidun"><img src="https://img.shields.io/badge/github-MrFaraidun-2d353b?style=flat-square&labelColor=1e2326&color=7fbbb3" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/faraidun-bahaden-9844b62b1/"><img src="https://img.shields.io/badge/linkedin-faraidun--bahaden-2d353b?style=flat-square&labelColor=1e2326&color=54c5f8" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/location-Sulaymaniyah%2C%20Kurdistan-2d353b?style=flat-square&labelColor=1e2326&color=dbbc7f" alt="Location" />
 </p>
 
@@ -74,17 +75,22 @@
       <br /><br />
       <sub>Zero-latency floating Dynamic Island voice dictation engine for Linux Wayland & X11 with hardware kernel typing.</sub>
       <br /><br />
+      <a href="https://github.com/MrFaraidun/everforest-whisper-dictation"><img src="https://img.shields.io/badge/GitHub_Repo-1e2326?style=flat-square&color=a7c080" /></a>
+      <br /><br />
       <img src="https://img.shields.io/badge/Python-2d353b?style=flat-square&color=a7c080" />
       <img src="https://img.shields.io/badge/Faster--Whisper-2d353b?style=flat-square&color=7fbbb3" />
       <img src="https://img.shields.io/badge/PyQt5-2d353b?style=flat-square&color=dbbc7f" />
       <img src="https://img.shields.io/badge/Wayland-2d353b?style=flat-square&color=e67e80" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/MrFaraidun/3d-website">
+      <a href="https://3d-keyboard-theta.vercel.app/">
         <b>Kronos Watchmaker 3D</b>
       </a>
       <br /><br />
       <sub>Interactive 3D luxury horology configurator featuring mechanical exploded views and real-time shader materials.</sub>
+      <br /><br />
+      <a href="https://3d-keyboard-theta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1e2326?style=flat-square&color=7fbbb3" /></a>
+      <a href="https://github.com/MrFaraidun/3d-website"><img src="https://img.shields.io/badge/GitHub_Repo-1e2326?style=flat-square&color=a7c080" /></a>
       <br /><br />
       <img src="https://img.shields.io/badge/React_Three_Fiber-2d353b?style=flat-square&color=a7c080" />
       <img src="https://img.shields.io/badge/Three.js-2d353b?style=flat-square&color=7fbbb3" />
@@ -94,11 +100,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MrFaraidun/3d-web">
+      <a href="https://3d-web.vercel.app/">
         <b>AuraVision Studio</b>
       </a>
       <br /><br />
       <sub>Audio-reactive kinetic typography studio automating lyric video production using neural speech models.</sub>
+      <br /><br />
+      <a href="https://3d-web.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1e2326?style=flat-square&color=7fbbb3" /></a>
+      <a href="https://github.com/MrFaraidun/3d-web"><img src="https://img.shields.io/badge/GitHub_Repo-1e2326?style=flat-square&color=a7c080" /></a>
       <br /><br />
       <img src="https://img.shields.io/badge/Whisper_AI-2d353b?style=flat-square&color=a7c080" />
       <img src="https://img.shields.io/badge/Gemini_API-2d353b?style=flat-square&color=7fbbb3" />
@@ -106,16 +115,51 @@
       <img src="https://img.shields.io/badge/Node.js-2d353b?style=flat-square&color=5fa04e" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/MrFaraidun/multmieda">
+      <a href="https://multmieda.vercel.app/">
         <b>Veloce Store</b>
       </a>
       <br /><br />
       <sub>Enterprise-grade full-stack e-commerce engine with modular Spring Boot services and analytics dashboard.</sub>
       <br /><br />
+      <a href="https://multmieda.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1e2326?style=flat-square&color=7fbbb3" /></a>
+      <a href="https://github.com/MrFaraidun/multmieda"><img src="https://img.shields.io/badge/GitHub_Repo-1e2326?style=flat-square&color=a7c080" /></a>
+      <br /><br />
       <img src="https://img.shields.io/badge/Spring_Boot-2d353b?style=flat-square&color=6db33f" />
       <img src="https://img.shields.io/badge/React-2d353b?style=flat-square&color=61dafb" />
       <img src="https://img.shields.io/badge/PostgreSQL-2d353b?style=flat-square&color=4169e1" />
       <img src="https://img.shields.io/badge/REST_APIs-2d353b?style=flat-square&color=dbbc7f" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sulicycle-one.vercel.app/en">
+        <b>Sulicycle Platform</b>
+      </a>
+      <br /><br />
+      <sub>Smart recycling management web platform, custom REST APIs, and administrative telemetry dashboards.</sub>
+      <br /><br />
+      <a href="https://sulicycle-one.vercel.app/en"><img src="https://img.shields.io/badge/Live_Demo-1e2326?style=flat-square&color=7fbbb3" /></a>
+      <a href="https://github.com/MrFaraidun/e-commerce"><img src="https://img.shields.io/badge/GitHub_Repo-1e2326?style=flat-square&color=a7c080" /></a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-2d353b?style=flat-square&color=61dafb" />
+      <img src="https://img.shields.io/badge/Node.js-2d353b?style=flat-square&color=5fa04e" />
+      <img src="https://img.shields.io/badge/PostgreSQL-2d353b?style=flat-square&color=4169e1" />
+      <img src="https://img.shields.io/badge/Cloudinary-2d353b?style=flat-square&color=3448c5" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ganjina.vercel.app/">
+        <b>Ganjina</b>
+      </a>
+      <br /><br />
+      <sub>Production-grade cross-platform personal finance and expense tracking application built with Flutter.</sub>
+      <br /><br />
+      <a href="https://ganjina.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1e2326?style=flat-square&color=7fbbb3" /></a>
+      <a href="https://github.com/MrFaraidun/Ganjina"><img src="https://img.shields.io/badge/GitHub_Repo-1e2326?style=flat-square&color=a7c080" /></a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Flutter-2d353b?style=flat-square&color=54c5f8" />
+      <img src="https://img.shields.io/badge/Dart-2d353b?style=flat-square&color=0175c2" />
+      <img src="https://img.shields.io/badge/SQLite-2d353b?style=flat-square&color=003b57" />
+      <img src="https://img.shields.io/badge/Cross--Platform-2d353b?style=flat-square&color=a7c080" />
     </td>
   </tr>
 </table>

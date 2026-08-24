@@ -16,6 +16,10 @@
   <a href="https://www.facebook.com/mrfaraidun"><img src="https://img.shields.io/badge/facebook-mrfaraidun-1e2326?style=for-the-badge&logo=facebook&logoColor=1877f2&labelColor=14181a" alt="Facebook" /></a>
 </p>
 
+<br />
+
+<img src="assets/profile-banner.gif" alt="Faraidun Engineering Telemetry Animation" width="760" style="border-radius: 14px; box-shadow: 0 16px 40px rgba(0,0,0,0.5);" />
+
 </div>
 
 ---
@@ -32,18 +36,6 @@
     <img src="https://skillicons.dev/icons?i=spring,java,laravel,php,postgres,mysql,prisma,firebase,docker,git,flutter,figma,vercel&perline=13&theme=dark" alt="Backend, Cloud & Mobile" />
   </a>
 </div>
-
----
-
-### // SPOTLIGHT PROJECT
-
-<div align="center">
-  <a href="https://github.com/MrFaraidun/everforest-whisper-dictation">
-    <img src="https://raw.githubusercontent.com/MrFaraidun/everforest-whisper-dictation/main/assets/demo.gif" alt="Everforest Whisper Dictation Pro Live Demo" width="98%" style="border-radius: 16px; box-shadow: 0 16px 40px rgba(0,0,0,0.5);" />
-  </a>
-</div>
-
-<br />
 
 ---
 

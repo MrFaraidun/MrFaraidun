@@ -14,31 +14,57 @@
   <img src="https://img.shields.io/badge/location-Sulaymaniyah%2C%20Kurdistan-2d353b?style=flat-square&labelColor=1e2326&color=dbbc7f" alt="Location" />
 </p>
 
-<br />
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,spring,postgres,threejs,tailwind,linux,docker,git&theme=dark" alt="Tech Stack Matrix" />
-</a>
-
 </div>
 
 ---
 
-### // ARCHITECTURE & FOCUS
+### // TECHNOLOGIES I WORK WITH
+<sub>The tools I use to build the future</sub>
 
-```typescript
-const engineer = {
-  name: "Faraidun Bahaden",
-  title: "Full-Stack Developer & Creative Engineer",
-  focus: ["Full-Stack Architecture", "3D Web & Interactive Systems", "AI & Systems Tooling"],
-  coreStack: {
-    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Three.js", "GSAP"],
-    backend:  ["Node.js", "Express", "Python", "Spring Boot", "FastAPI"],
-    database: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-    systems:  ["Linux (Wayland / X11)", "Docker", "Git", "PyQt5"]
-  }
-};
-```
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js_%26_Express-20232A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Three.js-20232A?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_%26_GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+<img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Nuxt.js-20232A?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" />
+
+<br />
+
+<img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/Framer_Motion-20232A?style=for-the-badge&logo=framer&logoColor=0055FF" />
+<img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=2D3748" />
+<img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=009688" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+
+</div>
 
 ---
 

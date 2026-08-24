@@ -12,7 +12,8 @@
   <a href="https://faraidun.vercel.app"><img src="https://img.shields.io/badge/portfolio-faraidun.vercel.app-1e2326?style=for-the-badge&logo=vercel&logoColor=7fbbb3&labelColor=14181a" alt="Portfolio" /></a>
   <a href="https://github.com/MrFaraidun"><img src="https://img.shields.io/badge/github-MrFaraidun-1e2326?style=for-the-badge&logo=github&logoColor=a7c080&labelColor=14181a" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/faraidun-bahaden-9844b62b1/"><img src="https://img.shields.io/badge/linkedin-faraidun--bahaden-1e2326?style=for-the-badge&logo=linkedin&logoColor=54c5f8&labelColor=14181a" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/location-Sulaymaniyah%2C%20Kurdistan-1e2326?style=for-the-badge&logo=googlemaps&logoColor=dbbc7f&labelColor=14181a" alt="Location" />
+  <a href="https://www.instagram.com/mrfaraidun/"><img src="https://img.shields.io/badge/instagram-mrfaraidun-1e2326?style=for-the-badge&logo=instagram&logoColor=e1306c&labelColor=14181a" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/mrfaraidun"><img src="https://img.shields.io/badge/facebook-mrfaraidun-1e2326?style=for-the-badge&logo=facebook&logoColor=1877f2&labelColor=14181a" alt="Facebook" /></a>
 </p>
 
 </div>

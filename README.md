@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/location-Sulaymaniyah%2C%20Kurdistan-2d353b?style=flat-square&labelColor=1e2326&color=dbbc7f" alt="Location" />
 </p>
 
-</div>
-
----
-
-### // TECHNOLOGIES I WORK WITH
-<sub>The tools I use to build the future</sub>
-
 <br />
 
 <div align="center">
@@ -66,29 +59,66 @@
 
 </div>
 
+</div>
+
 ---
 
-### // SELECT WORKS
+### // FEATURED ARCHITECTURE & WORKS
 
-* **[Everforest Whisper Dictation Pro](https://github.com/MrFaraidun/everforest-whisper-dictation)**  
-  Sub-200ms floating Dynamic Island voice dictation engine for Linux with kernel-level Wayland injection.  
-  `Python` • `Faster-Whisper` • `PyQt5` • `Wayland` • `ydotool`
-
-* **[Kronos Watchmaker](https://github.com/MrFaraidun/3d-website)**  
-  Interactive 3D luxury horology configurator featuring mechanical exploded views and real-time shader materials.  
-  `React Three Fiber` • `Three.js` • `GSAP` • `Tailwind CSS`
-
-* **[AuraVision Studio](https://github.com/MrFaraidun/3d-web)**  
-  Audio-reactive kinetic typography studio automating lyric video production using neural speech models.  
-  `Whisper AI` • `Gemini API` • `React` • `WebGL` • `Node.js`
-
-* **[Veloce Store](https://github.com/MrFaraidun/multmieda)**  
-  Enterprise-grade full-stack e-commerce engine with modular Spring Boot services and analytics dashboard.  
-  `Spring Boot` • `React` • `PostgreSQL` • `REST APIs`
-
-* **[Sulicycle Platform](https://github.com/MrFaraidun/e-commerce)**  
-  Smart recycling management web platform, custom REST APIs, and administrative telemetry dashboards.  
-  `React` • `Node.js` • `Express` • `PostgreSQL` • `Cloudinary`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MrFaraidun/everforest-whisper-dictation">
+        <b>Everforest Whisper Dictation Pro</b>
+      </a>
+      <br /><br />
+      <sub>Zero-latency floating Dynamic Island voice dictation engine for Linux Wayland & X11 with hardware kernel typing.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-2d353b?style=flat-square&color=a7c080" />
+      <img src="https://img.shields.io/badge/Faster--Whisper-2d353b?style=flat-square&color=7fbbb3" />
+      <img src="https://img.shields.io/badge/PyQt5-2d353b?style=flat-square&color=dbbc7f" />
+      <img src="https://img.shields.io/badge/Wayland-2d353b?style=flat-square&color=e67e80" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MrFaraidun/3d-website">
+        <b>Kronos Watchmaker 3D</b>
+      </a>
+      <br /><br />
+      <sub>Interactive 3D luxury horology configurator featuring mechanical exploded views and real-time shader materials.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React_Three_Fiber-2d353b?style=flat-square&color=a7c080" />
+      <img src="https://img.shields.io/badge/Three.js-2d353b?style=flat-square&color=7fbbb3" />
+      <img src="https://img.shields.io/badge/GSAP-2d353b?style=flat-square&color=dbbc7f" />
+      <img src="https://img.shields.io/badge/Tailwind-2d353b?style=flat-square&color=06b6d4" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MrFaraidun/3d-web">
+        <b>AuraVision Studio</b>
+      </a>
+      <br /><br />
+      <sub>Audio-reactive kinetic typography studio automating lyric video production using neural speech models.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Whisper_AI-2d353b?style=flat-square&color=a7c080" />
+      <img src="https://img.shields.io/badge/Gemini_API-2d353b?style=flat-square&color=7fbbb3" />
+      <img src="https://img.shields.io/badge/WebGL-2d353b?style=flat-square&color=dbbc7f" />
+      <img src="https://img.shields.io/badge/Node.js-2d353b?style=flat-square&color=5fa04e" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MrFaraidun/multmieda">
+        <b>Veloce Store</b>
+      </a>
+      <br /><br />
+      <sub>Enterprise-grade full-stack e-commerce engine with modular Spring Boot services and analytics dashboard.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Spring_Boot-2d353b?style=flat-square&color=6db33f" />
+      <img src="https://img.shields.io/badge/React-2d353b?style=flat-square&color=61dafb" />
+      <img src="https://img.shields.io/badge/PostgreSQL-2d353b?style=flat-square&color=4169e1" />
+      <img src="https://img.shields.io/badge/REST_APIs-2d353b?style=flat-square&color=dbbc7f" />
+    </td>
+  </tr>
+</table>
 
 ---
 

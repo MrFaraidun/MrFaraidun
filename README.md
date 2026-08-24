@@ -3,14 +3,22 @@
 # Faraidun Bahaden
 
 <a href="https://faraidun.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A7C080&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer+%26+Creative+Engineer;Building+High-Performance+Web+%26+3D+Systems;Crafting+Modern+Human-Centered+Software;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1200&color=A7C080&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer+%26+Creative+Engineer;Building+High-Performance+Web+%26+3D+Systems;Crafting+Modern+Human-Centered+Software;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python" alt="Typing Animation" />
 </a>
+
+<br />
 
 <p align="center">
   <a href="https://faraidun.vercel.app"><img src="https://img.shields.io/badge/portfolio-faraidun.vercel.app-2d353b?style=flat-square&labelColor=1e2326&color=a7c080" alt="Portfolio" /></a>
   <a href="https://github.com/MrFaraidun"><img src="https://img.shields.io/badge/github-MrFaraidun-2d353b?style=flat-square&labelColor=1e2326&color=7fbbb3" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/location-Sulaymaniyah%2C%20Kurdistan-2d353b?style=flat-square&labelColor=1e2326&color=dbbc7f" alt="Location" />
 </p>
+
+<br />
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,spring,postgres,threejs,tailwind,linux,docker,git&theme=dark" alt="Tech Stack Matrix" />
+</a>
 
 </div>
 
@@ -61,14 +69,19 @@ const engineer = {
 ### // METRICS & ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrFaraidun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e2326&title_color=a7c080&icon_color=dbbc7f&text_color=d3c6aa" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFaraidun&theme=tokyonight&hide_border=true&background=1e2326&ring=a7c080&fire=e67e80&currStreakLabel=a7c080&sideLabels=d3c6aa&dates=859289" width="48%" />
-</div>
+
+<a href="https://github.com/MrFaraidun">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=7FBBB3&center=true&vCenter=true&width=620&height=35&lines=Status%3A+Available+for+innovative+Full-Stack+%26+3D+projects;Current+Focus%3A+React+Three+Fiber+%E2%80%A2+Whisper+AI+%E2%80%A2+Linux+Systems;Architecture%3A+Modular+microservices+%2B+high-fidelity+frontends" alt="Engineering Status Stream" />
+</a>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFaraidun&theme=tokyo-night&bg_color=1e2326&color=a7c080&line=7fbbb3&point=dbbc7f&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFaraidun&theme=tokyo-night&bg_color=1e2326&color=a7c080&line=7fbbb3&point=dbbc7f&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/MrFaraidun/MrFaraidun/main/assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
 </div>
 
 ---

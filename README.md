@@ -35,6 +35,18 @@
 
 ---
 
+### // SPOTLIGHT PROJECT
+
+<div align="center">
+  <a href="https://github.com/MrFaraidun/everforest-whisper-dictation">
+    <img src="https://raw.githubusercontent.com/MrFaraidun/everforest-whisper-dictation/main/assets/demo.gif" alt="Everforest Whisper Dictation Pro Live Demo" width="98%" style="border-radius: 16px; box-shadow: 0 16px 40px rgba(0,0,0,0.5);" />
+  </a>
+</div>
+
+<br />
+
+---
+
 ### // FEATURED ARCHITECTURE & WORKS
 
 <table>

@@ -151,7 +151,7 @@
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrFaraidun&theme=tokyo-night&bg_color=1e2326&color=a7c080&line=7fbbb3&point=dbbc7f&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/MrFaraidun/MrFaraidun/main/assets/activity-graph.svg" width="100%" alt="Contribution Graph" />
 
 <br /><br />
 
